@@ -114,6 +114,7 @@ Filtro por tipos de clientes: Según los don tipos de clientes existentes
 * Seguir un protocolo cuando se conteste una llamada
 
 
+Nota: Los datos aquí mostrados, son ficticios, todo el procesamiento se llevo a cabo con fines educativos.
 
 # ¡GRACIAS!
 
